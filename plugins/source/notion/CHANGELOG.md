@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/cloudquery/cloudquery/compare/plugins-source-notion-v1.0.0...plugins-source-notion-v1.0.1) (2023-09-25)
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v4 to v4.10.2 ([#14007](https://github.com/cloudquery/cloudquery/issues/14007)) ([dbd5305](https://github.com/cloudquery/cloudquery/commit/dbd53053a5f42c92cca1bf7576741d96fa7fa2d9))
+
 ## 1.0.0 (2023-09-22)
 
 
