@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.2.9](https://github.com/cloudquery/cloudquery/compare/plugins-destination-kafka-v3.2.8...plugins-destination-kafka-v3.2.9) (2023-09-25)
+
+
+### Bug Fixes
+
+* **deps:** Update github.com/cloudquery/arrow/go/v14 digest to ffb7089 ([#13879](https://github.com/cloudquery/cloudquery/issues/13879)) ([f95ced5](https://github.com/cloudquery/cloudquery/commit/f95ced5daa2b123bd71ddff75bd76b3b008790c1))
+* **deps:** Update module github.com/cloudquery/filetypes/v4 to v4.1.12 ([#13949](https://github.com/cloudquery/cloudquery/issues/13949)) ([7bbe086](https://github.com/cloudquery/cloudquery/commit/7bbe086c926223ef499757e6cf196cda21cc8c44))
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v4 to v4.10.0 ([#13978](https://github.com/cloudquery/cloudquery/issues/13978)) ([2efdf55](https://github.com/cloudquery/cloudquery/commit/2efdf55aed94a14c35c51632ff61ed454caaf5a5))
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v4 to v4.10.2 ([#13988](https://github.com/cloudquery/cloudquery/issues/13988)) ([aebaddf](https://github.com/cloudquery/cloudquery/commit/aebaddfc5ca0d7574b8cd72e9e074ec612472dbe))
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v4 to v4.9.0 ([#13960](https://github.com/cloudquery/cloudquery/issues/13960)) ([f074076](https://github.com/cloudquery/cloudquery/commit/f074076a21dc0b8cadfdc3adb9731473d24d28b1))
+
 ## [3.2.8](https://github.com/cloudquery/cloudquery/compare/plugins-destination-kafka-v3.2.7...plugins-destination-kafka-v3.2.8) (2023-09-12)
 
 
