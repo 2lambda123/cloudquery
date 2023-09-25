@@ -1,5 +1,20 @@
 # Changelog
 
+## [4.1.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-oracle-v4.0.8...plugins-source-oracle-v4.1.0) (2023-09-25)
+
+
+### Features
+
+* Use JSON schema for spec validation ([#13961](https://github.com/cloudquery/cloudquery/issues/13961)) ([ff934fe](https://github.com/cloudquery/cloudquery/commit/ff934fed1b99b766405cc06d9a3a315535040f36))
+
+
+### Bug Fixes
+
+* **deps:** Update github.com/cloudquery/arrow/go/v14 digest to ffb7089 ([#13879](https://github.com/cloudquery/cloudquery/issues/13879)) ([f95ced5](https://github.com/cloudquery/cloudquery/commit/f95ced5daa2b123bd71ddff75bd76b3b008790c1))
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v4 to v4.10.2 ([#13988](https://github.com/cloudquery/cloudquery/issues/13988)) ([aebaddf](https://github.com/cloudquery/cloudquery/commit/aebaddfc5ca0d7574b8cd72e9e074ec612472dbe))
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v4 to v4.8.0 ([#13950](https://github.com/cloudquery/cloudquery/issues/13950)) ([15b0b69](https://github.com/cloudquery/cloudquery/commit/15b0b6925932613ed2915a3255b3466f21a5c7bf))
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v4 to v4.9.0 ([#13960](https://github.com/cloudquery/cloudquery/issues/13960)) ([f074076](https://github.com/cloudquery/cloudquery/commit/f074076a21dc0b8cadfdc3adb9731473d24d28b1))
+
 ## [4.0.8](https://github.com/cloudquery/cloudquery/compare/plugins-source-oracle-v4.0.7...plugins-source-oracle-v4.0.8) (2023-09-12)
 
 
