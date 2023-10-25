@@ -21,7 +21,7 @@
     "copy-to-clipboard": "3.3.3",
     "glob": "^9.0.1",
     "gray-matter": "^4.0.3",
-    "next": "^13.1.5",
+    "next": "^13.5.0",
     "next-seo": "^5.15.0",
     "next-sitemap": "^4.0.0",
     "nextra": "^2.2.16",
