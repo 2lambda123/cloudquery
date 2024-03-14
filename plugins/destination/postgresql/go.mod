@@ -6,7 +6,7 @@ require (
 	github.com/apache/arrow/go/v14 v14.0.0-20230905030402-a526ba697d4e
 	github.com/cloudquery/plugin-sdk/v4 v4.10.2
 	github.com/jackc/pgx-zerolog v0.0.0-20230315001418-f978528409eb
-	github.com/jackc/pgx/v5 v5.3.1
+	github.com/jackc/pgx/v5 v5.5.4
 	github.com/rs/zerolog v1.29.1
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9
 )
@@ -33,7 +33,7 @@ require (
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
-	github.com/jackc/puddle/v2 v2.2.0 // indirect
+	github.com/jackc/puddle/v2 v2.2.1 // indirect
 	github.com/klauspost/compress v1.16.7 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.5 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
